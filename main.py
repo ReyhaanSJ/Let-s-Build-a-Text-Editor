@@ -43,6 +43,6 @@ btnopen.grid(row=0,column=0,sticky="ew",padx=5,pady=5)
 btnsave.grid(row=1,column=0,sticky="ew",padx=5)
 
 frbutton.grid(row=0,column=0,sticky="ns")
-txtedit.grid(row=1,column=1,sticky="nsew")
+txtedit.grid(row=0,column=1,sticky="nsew")
 
 window.mainloop()
